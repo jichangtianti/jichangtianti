@@ -20,13 +20,13 @@
 
 ## 📦 仓库导航
 
-| 仓库 | 内容 |
-| :--- | :--- |
-| 🏆 [jichangtianti-rank](https://tizirank.com) | **2026 机场推荐排行榜**：20+ 家机场简评 + 测速图 + 解锁图 |
-| ☁️ [tiziyun-jichang](https://tizirank.com/reviews/tiziyun/) | **梯子云深度测评**：套餐价格 / 实测 / 全平台配置教程 |
-| 🌌 [twilight-jichang](https://tizirank.com/reviews/twilight/) | **暮光加速深度测评**：套餐价格 / 实测 / 全平台配置教程 |
-| 🌐 [quanqiuyun-jichang](https://tizirank.com/reviews/quanqiuyun/) | **全球云深度测评**：套餐价格 / 实测 / 全平台配置教程 |
-| 🚨 [airport-status](https://tizirank.com) | **机场跑路预警黑名单**：每日更新，下单前先查这家是否跑路 |
+| 栏目 | 对应内容与功能 | 直达链接 |
+| :--- | :--- | :--- |
+| 🔥 **今日推荐** | 2026 每日精选高性价比、低延迟主力机场推荐与优惠折扣 | [立即查看 →](https://tizirank.com/#recommend) |
+| 🏆 **天梯全榜** | 20+ 家主流机场晚高峰 QoS 测速大表、流媒体与 AI 解锁天梯总榜 | [进入全榜 →](https://tizirank.com/ranking/) |
+| 📘 **天梯教程** | Clash Verge Rev / Shadowrocket / sing-box 全平台客户端保姆级配置图文教程 | [查看教程 →](https://tizirank.com/tutorials/) |
+| 📝 **博客** | 科学上网前沿技术科普、协议深度剖析（VLESS / Shadowsocks 2022）、防跑路风控指南 | [阅读博客 →](https://tizirank.com/blog/) |
+| 👤 **关于我** | 机场天梯测速机制说明、测速节点拓扑环境介绍与官方反馈通道 | [关于天梯 →](https://tizirank.com/about/) |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | 机场名称 | 核心线路与协议 | 优惠码 | 晚高峰稳定性 | AI / 流媒体解锁能力 | 月付起步 | 深度测评 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ☁️ **梯子云** | 深圳/上海 IEPL 企业内网专线 | `tiziyun` | 99.9%（0 丢包） | ChatGPT / Claude / Netflix 4K | ￥25.00 | [进入测评 →](https://tizirank.com/reviews/tiziyun/) |
-| 🌌 **暮光加速** | BGP / IEPL 8K 极速大带宽 | `mm88` | 99.5%（低抖动） | 住宅原生 IP / TikTok / Disney+ | ￥20.00 | [进入测评 →](https://tizirank.com/reviews/twilight/) |
-| 🌐 **全球云** | 全球多节点 BGP / 专线中继 | 暂无 | 99.0%（高吞吐） | ChatGPT / Midjourney / 8K 秒开 | ￥20.00 | [进入测评 →](https://tizirank.com/reviews/quanqiuyun/) |
-| 👤 **隐形人** | 全线纯专线 + VLESS 协议 | `yxr888` | 98.8%（抗封锁） | 全球节点覆盖 / 流媒体与 AI 全绿 | ￥24.00 | [进入测评 →](https://tizirank.com/reviews/yinxingren/) |
-| 🌊 **浪网** | Shadowsocks 专线 / AI 开发首选 | `lw88` | 99.2%（大水管） | 超大流量 / 晚高峰无视断流 | ￥25.00 | [进入测评 →](https://tizirank.com/reviews/langwang/) |
+| ☁️ **梯子云** | 深圳/上海 IEPL 企业内网专线 | `tiziyun` | 99.9%（0 丢包） | ChatGPT / Claude / Netflix 4K | ￥25.00 | [进入测评](https://tizirank.com/reviews/tiziyun/) |
+| 🌌 **暮光加速** | BGP / IEPL 8K 极速大带宽 | `mm88` | 99.5%（低抖动） | 住宅原生 IP / TikTok / Disney+ | ￥20.00 | [进入测评](https://tizirank.com/reviews/twilight/) |
+| 🌐 **全球云** | 全球多节点 BGP / 专线中继 | 暂无 | 99.0%（高吞吐） | ChatGPT / Midjourney / 8K 秒开 | ￥20.00 | [进入测评](https://tizirank.com/reviews/quanqiuyun/) |
+| 👤 **隐形人** | 全线纯专线 + VLESS 协议 | `yxr888` | 98.8%（抗封锁） | 全球节点覆盖 / 流媒体与 AI 全绿 | ￥24.00 | [进入测评](https://tizirank.com/reviews/yinxingren/) |
+| 🌊 **浪网** | Shadowsocks 专线 / AI 开发首选 | `lw88` | 99.2%（大水管） | 超大流量 / 晚高峰无视断流 | ￥25.00 | [进入测评](https://tizirank.com/reviews/langwang/) |
 
 ---
 
