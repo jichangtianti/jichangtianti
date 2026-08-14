@@ -32,13 +32,13 @@
 
 ## ⚡ 2026 核心机场性能指标横向速览
 
-| 机场名称 | 核心线路与协议 | 优惠码 | 晚高峰稳定性 | AI / 流媒体解锁能力 | 月付起步 | 深度测评 |
+| 机场名称 | 核心线路与协议 | 优惠码 | 晚高峰稳定性 | AI / 流媒体解锁能力 | 月付起步 | 深度测评文章 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ☁️ **梯子云** | 深圳/上海 IEPL 企业内网专线 | `tiziyun` | 99.9%（0 丢包） | ChatGPT / Claude / Netflix 4K | ￥25.00 | [进入测评](https://tizirank.com/reviews/tiziyun/) |
-| 🌌 **暮光加速** | BGP / IEPL 8K 极速大带宽 | `mm88` | 99.5%（低抖动） | 住宅原生 IP / TikTok / Disney+ | ￥20.00 | [进入测评](https://tizirank.com/reviews/twilight/) |
-| 🌐 **全球云** | 全球多节点 BGP / 专线中继 | 暂无 | 99.0%（高吞吐） | ChatGPT / Midjourney / 8K 秒开 | ￥20.00 | [进入测评](https://tizirank.com/reviews/quanqiuyun/) |
-| 👤 **隐形人** | 全线纯专线 + VLESS 协议 | `yxr888` | 98.8%（抗封锁） | 全球节点覆盖 / 流媒体与 AI 全绿 | ￥24.00 | [进入测评](https://tizirank.com/reviews/yinxingren/) |
-| 🌊 **浪网** | Shadowsocks 专线 / AI 开发首选 | `lw88` | 99.2%（大水管） | 超大流量 / 晚高峰无视断流 | ￥25.00 | [进入测评](https://tizirank.com/reviews/langwang/) |
+| ☁️ **梯子云** | 深圳/上海 IEPL 企业内网专线 | `tiziyun` | 99.9%（0 丢包） | ChatGPT / Claude / Netflix 4K | ￥25.00 | [进入测评（梯子云 评测与优惠码）](https://tizirank.com/reviews/tiziyun/) |
+| 🌌 **暮光加速** | BGP / IEPL 8K 极速大带宽 | `mm88` | 99.5%（低抖动） | 住宅原生 IP / TikTok / Disney+ | ￥20.00 | [进入测评（暮光加速 评测与优惠码）](https://tizirank.com/reviews/twilight/) |
+| 🌐 **全球云** | 全球多节点 BGP / 专线中继 | 暂无 | 99.0%（高吞吐） | ChatGPT / Midjourney / 8K 秒开 | ￥20.00 | [进入测评（全球云 评测与优惠码）](https://tizirank.com/reviews/quanqiuyun/) |
+| 👤 **隐形人** | 全线纯专线 + VLESS 协议 | `yxr888` | 98.8%（抗封锁） | 全球节点覆盖 / 流媒体与 AI 全绿 | ￥24.00 | [进入测评（隐形人 评测与优惠码）](https://tizirank.com/reviews/yinxingren/) |
+| 🌊 **浪网** | Shadowsocks 专线 / AI 开发首选 | `lw88` | 99.2%（大水管） | 超大流量 / 晚高峰无视断流 | ￥25.00 | [进入测评（浪网 评测与优惠码）](https://tizirank.com/reviews/langwang/) |
 
 ---
 
