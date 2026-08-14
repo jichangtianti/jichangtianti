@@ -37,7 +37,7 @@
 | ☁️ **梯子云** | 全线 IEPL 企业内网专线 | Shadowsocks / Trojan | 99.9%（0 丢包） | ChatGPT / Claude / Netflix 4K | ￥15.00 | [前往官网](https://tizirank.com) |
 | 🌌 **暮光加速** | 顶级跨境 BGP 多线中转 | Shadowsocks 2022 | 99.5%（低抖动） | 住宅原生 IP / TikTok / Disney+ | ￥18.00 | [前往官网](https://tizirank.com) |
 | 🌐 **全球云** | 动态调度多线专线集群 | VLESS / Shadowsocks | 99.0%（高吞吐） | ChatGPT / Midjourney / 8K 秒开 | ￥12.00 | [前往官网](https://tizirank.com) |
-| ⚡ **灵动云** | VLESS + Reality 专线 | VLESS Reality | 98.8%（抗封锁） | 稳定抗封锁 / 原生 IP 解锁 | ￥16.00 | [前往官网](https://tizirank.com) |
+| 👤 **隐形人** | 军工级防封锁协议专线 | Shadowsocks / VLESS | 98.8%（抗封锁） | 全球节点覆盖 / 流媒体与 AI 全绿 | ￥15.00 | [前往官网](https://tizirank.com) |
 | 🌊 **浪网** | 大带宽 IPLC 专线矩阵 | Shadowsocks | 99.2%（大水管） | 超大流量 / 晚高峰无视断流 | ￥20.00 | [前往官网](https://tizirank.com) |
 
 ---
