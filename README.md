@@ -23,22 +23,22 @@
 | 仓库 | 内容 |
 | :--- | :--- |
 | 🏆 [jichangtianti-rank](https://tizirank.com) | **2026 机场推荐排行榜**：20+ 家机场简评 + 测速图 + 解锁图 |
-| ☁️ [tiziyun-jichang](https://tizirank.com) | **梯子云深度测评**：套餐价格 / 实测 / 全平台配置教程 |
-| 🌌 [twilight-jichang](https://tizirank.com) | **暮光加速深度测评**：套餐价格 / 实测 / 全平台配置教程 |
-| 🌐 [quanqiuyun-jichang](https://tizirank.com) | **全球云深度测评**：套餐价格 / 实测 / 全平台配置教程 |
+| ☁️ [tiziyun-jichang](https://tizirank.com/reviews/tiziyun/) | **梯子云深度测评**：套餐价格 / 实测 / 全平台配置教程 |
+| 🌌 [twilight-jichang](https://tizirank.com/reviews/twilight/) | **暮光加速深度测评**：套餐价格 / 实测 / 全平台配置教程 |
+| 🌐 [quanqiuyun-jichang](https://tizirank.com/reviews/quanqiuyun/) | **全球云深度测评**：套餐价格 / 实测 / 全平台配置教程 |
 | 🚨 [airport-status](https://tizirank.com) | **机场跑路预警黑名单**：每日更新，下单前先查这家是否跑路 |
 
 ---
 
 ## ⚡ 2026 核心机场性能指标横向速览
 
-| 机场名称 | 核心线路架构 | 协议支持 | 晚高峰稳定性 | AI / 流媒体解锁能力 | 月付起步 | 官方入口 |
+| 机场名称 | 核心线路与协议 | 优惠码 | 晚高峰稳定性 | AI / 流媒体解锁能力 | 月付起步 | 深度测评 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ☁️ **梯子云** | 全线 IEPL 企业内网专线 | Shadowsocks / Trojan | 99.9%（0 丢包） | ChatGPT / Claude / Netflix 4K | ￥15.00 | [前往官网](https://tizirank.com) |
-| 🌌 **暮光加速** | 顶级跨境 BGP 多线中转 | Shadowsocks 2022 | 99.5%（低抖动） | 住宅原生 IP / TikTok / Disney+ | ￥18.00 | [前往官网](https://tizirank.com) |
-| 🌐 **全球云** | 动态调度多线专线集群 | VLESS / Shadowsocks | 99.0%（高吞吐） | ChatGPT / Midjourney / 8K 秒开 | ￥12.00 | [前往官网](https://tizirank.com) |
-| 👤 **隐形人** | 军工级防封锁协议专线 | Shadowsocks / VLESS | 98.8%（抗封锁） | 全球节点覆盖 / 流媒体与 AI 全绿 | ￥15.00 | [前往官网](https://tizirank.com) |
-| 🌊 **浪网** | 大带宽 IPLC 专线矩阵 | Shadowsocks | 99.2%（大水管） | 超大流量 / 晚高峰无视断流 | ￥20.00 | [前往官网](https://tizirank.com) |
+| ☁️ **梯子云** | 深圳/上海 IEPL 企业内网专线 | `tiziyun` | 99.9%（0 丢包） | ChatGPT / Claude / Netflix 4K | ￥25.00 | [进入测评 →](https://tizirank.com/reviews/tiziyun/) |
+| 🌌 **暮光加速** | BGP / IEPL 8K 极速大带宽 | `mm88` | 99.5%（低抖动） | 住宅原生 IP / TikTok / Disney+ | ￥20.00 | [进入测评 →](https://tizirank.com/reviews/twilight/) |
+| 🌐 **全球云** | 全球多节点 BGP / 专线中继 | 暂无 | 99.0%（高吞吐） | ChatGPT / Midjourney / 8K 秒开 | ￥20.00 | [进入测评 →](https://tizirank.com/reviews/quanqiuyun/) |
+| 👤 **隐形人** | 全线纯专线 + VLESS 协议 | `yxr888` | 98.8%（抗封锁） | 全球节点覆盖 / 流媒体与 AI 全绿 | ￥24.00 | [进入测评 →](https://tizirank.com/reviews/yinxingren/) |
+| 🌊 **浪网** | Shadowsocks 专线 / AI 开发首选 | `lw88` | 99.2%（大水管） | 超大流量 / 晚高峰无视断流 | ￥25.00 | [进入测评 →](https://tizirank.com/reviews/langwang/) |
 
 ---
 
